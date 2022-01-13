@@ -1,4 +1,4 @@
-# Red_Neuronal_Coche_Arduino
+# TFG_Red_Neuronal_Coche_Arduino
 Red neuronal de aprendizaje supervisado, entrenada para controlar un robot en forma de coche, implementada mediante Python, sin uso de librerías como Tensorflow, Keras, Pytorch, etc. Se solventan limitaciones Hardware por parte del robot, mediante técnica de inferencia.
 
 En el primer archivo se implementa la red neuronal en Python, para ser entrenada en la tarea deseada.
